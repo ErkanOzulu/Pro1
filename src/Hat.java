@@ -5,5 +5,7 @@ public class Hat {
 
         // added some comment in here
 
+        // new change is done
+
     }
 }
